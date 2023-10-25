@@ -1,0 +1,15 @@
+{
+    "name": "falconcode_lab",
+    "path": "TO_SPECIFY",
+    "reprocess": false,
+    "subset": "lab",
+    "processing": {
+        "remove_zero_passing": true,
+        "select_last": true
+    },
+    "mapping": {
+        "name": "refactory",
+        "tool_path": "TO_SPECIFY",
+        "remap": false
+    }
+}

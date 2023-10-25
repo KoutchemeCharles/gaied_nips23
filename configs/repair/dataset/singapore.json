@@ -1,0 +1,10 @@
+{
+    "name": "singapore",
+    "path": "TO_SPECIFY",
+    "reprocess": true,
+    "mapping": {
+        "name": "refactory",
+        "tool_path": "TO_SPECIFY",
+        "remap": false
+    }
+}
